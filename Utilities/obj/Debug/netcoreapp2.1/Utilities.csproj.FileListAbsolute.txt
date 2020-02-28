@@ -15,3 +15,11 @@ D:\SourceCode\pratical_assignment_company_backend\Utilities\obj\Debug\netcoreapp
 D:\SourceCode\pratical_assignment_company_backend\Utilities\obj\Debug\netcoreapp2.1\Utilities.dll
 D:\SourceCode\pratical_assignment_company_backend\Utilities\obj\Debug\netcoreapp2.1\Utilities.pdb
 D:\SourceCode\pratical_assignment_company_backend\Utilities\obj\Debug\netcoreapp2.1\Utilities.csprojAssemblyReference.cache
+D:\C#\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.dll
+D:\C#\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.pdb
+D:\C#\Teamplate-Net-Core-Api\Utilities\bin\Debug\netcoreapp2.1\Utilities.deps.json
+D:\C#\Teamplate-Net-Core-Api\Utilities\bin\Debug\netcoreapp2.1\Utilities.dll
+D:\C#\Teamplate-Net-Core-Api\Utilities\bin\Debug\netcoreapp2.1\Utilities.pdb
+D:\C#\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.csprojAssemblyReference.cache
+D:\C#\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.AssemblyInfoInputs.cache
+D:\C#\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.AssemblyInfo.cs

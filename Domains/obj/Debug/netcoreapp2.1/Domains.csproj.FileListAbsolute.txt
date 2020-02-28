@@ -33,3 +33,16 @@ D:\SourceCode\pratical_assignment_company_backend\Domains\obj\Debug\netcoreapp2.
 D:\SourceCode\pratical_assignment_company_backend\Domains\obj\Debug\netcoreapp2.1\Domains.csproj.CopyComplete
 D:\SourceCode\pratical_assignment_company_backend\Domains\obj\Debug\netcoreapp2.1\Domains.dll
 D:\SourceCode\pratical_assignment_company_backend\Domains\obj\Debug\netcoreapp2.1\Domains.pdb
+D:\C#\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.dll
+D:\C#\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.pdb
+D:\C#\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Domains.deps.json
+D:\C#\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Domains.runtimeconfig.json
+D:\C#\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Domains.runtimeconfig.dev.json
+D:\C#\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Domains.dll
+D:\C#\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Domains.pdb
+D:\C#\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Utilities.dll
+D:\C#\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Utilities.pdb
+D:\C#\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.csprojAssemblyReference.cache
+D:\C#\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.AssemblyInfoInputs.cache
+D:\C#\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.AssemblyInfo.cs
+D:\C#\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.csproj.CopyComplete
