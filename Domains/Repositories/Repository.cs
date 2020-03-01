@@ -6,7 +6,7 @@ namespace Domains.Repositories
     public class Repository<TEntity> : GenericRepository<TEntity, Guid>, IRepository<TEntity>
         where TEntity : BaseEntity<Guid>
     {
-        public Repository(CompanyContext context) : base(context)
+        public Repository(ApplicationDBContext context) : base(context)
         {
         }
     }

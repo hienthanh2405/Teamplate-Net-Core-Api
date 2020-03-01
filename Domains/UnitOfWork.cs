@@ -12,9 +12,9 @@ namespace Domains
         private DbContext _dbContext;
         private bool _disposed = false;
 
-        public UnitOfWork(CompanyContext companyContext)
+        public UnitOfWork(ApplicationDBContext dbContext)
         {
-            _dbContext = companyContext;
+            _dbContext = dbContext;
         }
 
         private DbConnection DbConnection
