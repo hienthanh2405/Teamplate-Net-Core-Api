@@ -93,7 +93,7 @@ namespace APIs
             IConfigurationSection configurationSection = Configuration.GetSection(Constants.DATABASE.CONNECTIONSTRINGS);
             services.Configure<ConnectionOptions>(configurationSection);
 
-            services.AddDbContext<CompanyContext>
+            services.AddDbContext<ApplicationDBContext>
                 (options => options.UseSqlServer(SingletonService.Instance.DefaultConnection));
 
             return services;
