@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj": {}
+    "D:\\SourceCode\\pratical_assignment_company_backend\\Domains\\Domains.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj": {
+    "D:\\SourceCode\\pratical_assignment_company_backend\\Domains\\Domains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj",
+        "projectUniqueName": "D:\\SourceCode\\pratical_assignment_company_backend\\Domains\\Domains.csproj",
         "projectName": "Domains",
-        "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\obj\\",
+        "projectPath": "D:\\SourceCode\\pratical_assignment_company_backend\\Domains\\Domains.csproj",
+        "packagesPath": "C:\\Users\\hienbuit2\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCode\\pratical_assignment_company_backend\\Domains\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hienbuit2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj": {
-                "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj"
+              "D:\\SourceCode\\pratical_assignment_company_backend\\Utilities\\Utilities.csproj": {
+                "projectPath": "D:\\SourceCode\\pratical_assignment_company_backend\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -94,24 +94,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj": {
+    "D:\\SourceCode\\pratical_assignment_company_backend\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "D:\\SourceCode\\pratical_assignment_company_backend\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\obj\\",
+        "projectPath": "D:\\SourceCode\\pratical_assignment_company_backend\\Utilities\\Utilities.csproj",
+        "packagesPath": "C:\\Users\\hienbuit2\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCode\\pratical_assignment_company_backend\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hienbuit2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,7 +164,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
