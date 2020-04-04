@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Teamplate-Net-Core-Api\\APIs\\APIs.csproj": {}
+    "D:\\Teamplate-Net-Core-Api\\APIs\\APIs.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Teamplate-Net-Core-Api\\APIs\\APIs.csproj": {
+    "D:\\Teamplate-Net-Core-Api\\APIs\\APIs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Teamplate-Net-Core-Api\\APIs\\APIs.csproj",
+        "projectUniqueName": "D:\\Teamplate-Net-Core-Api\\APIs\\APIs.csproj",
         "projectName": "APIs",
-        "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\APIs\\APIs.csproj",
+        "projectPath": "D:\\Teamplate-Net-Core-Api\\APIs\\APIs.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Teamplate-Net-Core-Api\\APIs\\obj\\",
+        "outputPath": "D:\\Teamplate-Net-Core-Api\\APIs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj": {
-                "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj"
+              "D:\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj": {
+                "projectPath": "D:\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj"
               },
-              "D:\\C#\\Teamplate-Net-Core-Api\\Services\\Services.csproj": {
-                "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Services\\Services.csproj"
+              "D:\\Teamplate-Net-Core-Api\\Services\\Services.csproj": {
+                "projectPath": "D:\\Teamplate-Net-Core-Api\\Services\\Services.csproj"
               }
             }
           }
@@ -112,14 +112,14 @@
         }
       }
     },
-    "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj": {
+    "D:\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj",
+        "projectUniqueName": "D:\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj",
         "projectName": "Domains",
-        "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj",
+        "projectPath": "D:\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\obj\\",
+        "outputPath": "D:\\Teamplate-Net-Core-Api\\Domains\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -138,8 +138,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj": {
-                "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj"
+              "D:\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj": {
+                "projectPath": "D:\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -206,14 +206,14 @@
         }
       }
     },
-    "D:\\C#\\Teamplate-Net-Core-Api\\Services\\Services.csproj": {
+    "D:\\Teamplate-Net-Core-Api\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Teamplate-Net-Core-Api\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\Teamplate-Net-Core-Api\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Services\\Services.csproj",
+        "projectPath": "D:\\Teamplate-Net-Core-Api\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Teamplate-Net-Core-Api\\Services\\obj\\",
+        "outputPath": "D:\\Teamplate-Net-Core-Api\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -232,8 +232,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj": {
-                "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj"
+              "D:\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj": {
+                "projectPath": "D:\\Teamplate-Net-Core-Api\\Domains\\Domains.csproj"
               }
             }
           }
@@ -296,14 +296,14 @@
         }
       }
     },
-    "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj": {
+    "D:\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "D:\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj",
+        "projectPath": "D:\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\obj\\",
+        "outputPath": "D:\\Teamplate-Net-Core-Api\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

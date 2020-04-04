@@ -23,3 +23,11 @@ D:\C#\Teamplate-Net-Core-Api\Utilities\bin\Debug\netcoreapp2.1\Utilities.pdb
 D:\C#\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.csprojAssemblyReference.cache
 D:\C#\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.AssemblyInfoInputs.cache
 D:\C#\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.AssemblyInfo.cs
+D:\Teamplate-Net-Core-Api\Utilities\bin\Debug\netcoreapp2.1\Utilities.deps.json
+D:\Teamplate-Net-Core-Api\Utilities\bin\Debug\netcoreapp2.1\Utilities.dll
+D:\Teamplate-Net-Core-Api\Utilities\bin\Debug\netcoreapp2.1\Utilities.pdb
+D:\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.csprojAssemblyReference.cache
+D:\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.AssemblyInfoInputs.cache
+D:\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.AssemblyInfo.cs
+D:\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.dll
+D:\Teamplate-Net-Core-Api\Utilities\obj\Debug\netcoreapp2.1\Utilities.pdb

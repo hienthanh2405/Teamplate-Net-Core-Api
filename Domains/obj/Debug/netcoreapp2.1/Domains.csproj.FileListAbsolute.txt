@@ -46,3 +46,16 @@ D:\C#\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.csprojAssem
 D:\C#\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.AssemblyInfoInputs.cache
 D:\C#\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.AssemblyInfo.cs
 D:\C#\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.csproj.CopyComplete
+D:\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Domains.deps.json
+D:\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Domains.runtimeconfig.json
+D:\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Domains.runtimeconfig.dev.json
+D:\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Domains.dll
+D:\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Domains.pdb
+D:\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Utilities.dll
+D:\Teamplate-Net-Core-Api\Domains\bin\Debug\netcoreapp2.1\Utilities.pdb
+D:\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.csprojAssemblyReference.cache
+D:\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.AssemblyInfoInputs.cache
+D:\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.AssemblyInfo.cs
+D:\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.csproj.CopyComplete
+D:\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.dll
+D:\Teamplate-Net-Core-Api\Domains\obj\Debug\netcoreapp2.1\Domains.pdb

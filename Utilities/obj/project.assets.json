@@ -7840,11 +7840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj",
+      "projectUniqueName": "D:\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj",
       "projectName": "Utilities",
-      "projectPath": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj",
+      "projectPath": "D:\\Teamplate-Net-Core-Api\\Utilities\\Utilities.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Teamplate-Net-Core-Api\\Utilities\\obj\\",
+      "outputPath": "D:\\Teamplate-Net-Core-Api\\Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
